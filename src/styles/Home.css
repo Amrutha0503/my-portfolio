@@ -1,0 +1,57 @@
+.home{
+    width: auto;
+    display: flex;
+    flex-direction: grid;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background: white;
+
+}
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.skills {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 50px;
+    width: 400px;
+    
+}
+.myimage img{
+    margin: 20px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+
+.name h1{
+    color: rgb(96, 96, 160);;
+}
+
+.skills .lists{
+    list-style: none;
+    
+}
+
+.skills h1{
+    font-size: 40px;
+    color: rgb(96, 96, 160);
+    font-style: italic;
+}
+
+.skills h2{
+    color: rgb(96, 96, 160);
+    text-decoration: underline;
+}
+
+.skills span{
+    color: rgb(96, 96, 160);
+}
+
+

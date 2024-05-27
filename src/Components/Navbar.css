@@ -1,0 +1,77 @@
+.navbar{
+    height:100px;
+    width: auto;
+    background: #21325e;
+    align-items: center;
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.togglebutton button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: flex-end;
+    padding-top:25px ;
+}
+
+#open {
+    height: 100vh;
+}
+
+#open .links a {
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 100px;
+  }
+  
+  #open a {
+    width: auto;
+    text-align: center;
+  }
+
+@media only screen and (max-width: 900px) {
+    .links a {
+      width: 70px;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .toggleButton {
+      display: flex;
+    }
+    #close a {
+      display: none;
+    }
+  }
+
+  @media only screen and (min-width: 600px) {
+    .toggleButton {
+      display: none;
+    }
+  
+    .hiddenLinks {
+      display: none;
+    }
+  
+    #open {
+      height: 80px;
+    }
+  
+    #open .links {
+      flex-direction: row;
+    }
+  }
+
+
+
+
+

@@ -36,7 +36,7 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [amruthavalli503@gmail.com](mailto:amruthavalli503@gmail.com)
+Amrutha valli - [amruthavalli503@gmail.com](mailto:amruthavalli503@gmail.com)
 
-<!--Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).--->
+Connect with me on [LinkedIn](https://www.linkedin.com/in/amrutha-valli-gaddalapati).
 

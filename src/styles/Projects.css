@@ -6,13 +6,6 @@
     align-items: center;
     flex-direction: column;
   }
-  .projects .projectTitle {
-    text-align: center;
-    color: #3e497a;
-    font-size: 60px;
-    font-weight: bolder;
-  }
-  
   .projectList {
     width: 70vw;
     height: auto;
@@ -37,7 +30,7 @@
     cursor: pointer;
   }
   
-  .projectItem .bgImage {
+  .projectItem .bgimage {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     width: 100%;

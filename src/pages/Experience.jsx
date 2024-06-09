@@ -9,7 +9,7 @@ export function Experience() {
   return (
     <div className='experience'>
         <VerticalTimeline lineColor='#21325e'>
-          <VerticalTimelineElement className='vertical-timeline-element--education' date='2014-2015'
+          <VerticalTimelineElement className='vertical-timeline-element--education' date='2015-2017'
           iconStyle={{background:'#21325e' , color:'white'}} icon={<SchoolOutlined/>}>
 
             <h2> Sahithi Junior College from Giddalur , Prakasam District</h2>

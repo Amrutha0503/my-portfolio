@@ -9,11 +9,11 @@ export function Footer() {
     <div className='footer'>
       <h4>connect with Amrutha ! </h4>
       <div className='socialmedia'>
-        <p><GitHub />github.com/Amrutha0503</p>
-        <p><LinkedIn />linkedin.com/in/amrutha-valli-gaddalapati</p>
-        <p><Mail />amruthavalli503@gmail.com</p>
+        <a><GitHub />github.com/Amrutha0503</a>
+        <a><LinkedIn />linkedin.com/in/amrutha-valli-gaddalapati</a>
+        <a><Mail />amruthavalli503@gmail.com</a>
       </div>
-      <p> &copy; 2024 Amruthavalli.com</p>
+      <p className='df'> Designed and developed by Amruthavalli</p>
     </div>
   )
 }

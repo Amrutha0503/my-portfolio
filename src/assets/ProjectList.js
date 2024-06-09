@@ -7,6 +7,7 @@ export const ProjectList = [
   {
     name: "Portfolio",
     image: portfolioapp ,
+    link: "https://github.com/Amrutha0503/my-portfolio/tree/master"
     
   },
   {
